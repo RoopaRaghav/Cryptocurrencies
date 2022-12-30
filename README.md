@@ -8,11 +8,18 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 ## Results:
 ### K-means Clustering Algorithm, Elbow Curve: 
+![1ElbowCurve](https://user-images.githubusercontent.com/111100908/210024405-6d0cf97d-f1e9-4034-bb33-2176d5b53631.png)
+
 ### 3D scatter plot with PCA Components:
+![2 3d Scatter Plot with PCA components](https://user-images.githubusercontent.com/111100908/210024410-cf0c4d27-11ca-4d84-8681-6dda446b8134.png)
 
 ### Clusterd DataFrame with PCA components:
+![3 Clusterd Dataframe](https://user-images.githubusercontent.com/111100908/210024418-a5a46887-67d0-4a9b-b557-df553b25bfd4.png)
 
 
 ### Tradable Cryptocurrencies: 
+![4 Tradable Cryptocurrency table](https://user-images.githubusercontent.com/111100908/210024428-4dcd9881-62ab-46b9-ac3d-abe51a056b88.png)
+
 ### Scatterplot Tradable Cryptocurrencies: 
 
+![5 Scatter Plot for tradable](https://user-images.githubusercontent.com/111100908/210024433-f3ccee70-265d-49e3-b4cd-f00275f0e903.png)
